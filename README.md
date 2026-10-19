@@ -24,15 +24,15 @@ Projeto desenvolvido para praticar desenvolvimento backend com Python e Flask, c
 
 ### Dashboard
 
-![Dashboard do sistema](screenshots/Capturadetela_19-10-2026_9154_127.0.0.1.jpeg)
+![Dashboard do sistema](screenshots/dashboard.jpeg)
 
 ### Listagem e pesquisa de produtos
 
-![Listagem de produtos](screenshots/Capturadetela_19-10-2026_91310_127.0.0.1.jpeg)
+![Listagem de produtos](screenshots/estoque.jpeg)
 
 ### Movimentações de estoque
 
-![Movimentações de estoque](screenshots/Capturadetela_19-10-2026_91448_127.0.0.1.jpeg)
+![Movimentações de estoque](screenshots/historico.jpeg)
 
 ---
 
