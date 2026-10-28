@@ -34,6 +34,10 @@ Projeto desenvolvido para praticar desenvolvimento backend com Python e Flask, c
 
 ![Movimentações de estoque](screenshots/historico.jpeg)
 
+### Listagem e Cadastro de Fornecedor
+
+![Cadastro fornecedor](screenshots/Captura%20de%20tela%202026-10-28%20180535.png)
+
 ---
 
 Este repositório apresenta capturas de tela da aplicação. O código-fonte está disponível separadamente, conforme as configurações de acesso do repositório principal.
